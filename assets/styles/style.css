@@ -1,0 +1,15 @@
+:root {
+  --primary-color: #59FEF3;
+}
+
+.navbar {
+  background: var(--primary-color);
+}
+
+.quem-somos {
+  background: #F5F5F5;
+}
+
+.padding {
+  padding-top: 50px;
+}
