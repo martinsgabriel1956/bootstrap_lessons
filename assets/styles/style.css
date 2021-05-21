@@ -10,6 +10,16 @@
   background: #F5F5F5;
 }
 
+#quemsomos .padding > h3{
+  font-size: 46px;
+}
+
+#quemsomos .padding > h4{
+  margin-top: 10px;
+  font-size: 24px;
+}
+
 .padding {
   padding-top: 50px;
+  padding-bottom: 50px;
 }
